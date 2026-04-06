@@ -12,7 +12,7 @@ Revisé si había nulos (había bastantes en la columna de salario).
 Dejé los datos listos y ordenados para poder trabajar con ellos.
 
 2. Fase 2: Exploración y Visualización (evaluacion_final_mod3_fase2.ipynb)
-Esta es la parte visual donde saqué las conclusiones que ya te conté:
+Esta es la parte visual donde saqué las conclusiones:
 
 Salarios: La mayoría gana entre 50k y 100k.
 
@@ -23,7 +23,7 @@ Perfil: Clientes mayoritariamente casados y con estudios universitarios.
 Gráficos: Usé boxplots para ver los valores raros (outliers) y un heatmap para ver qué columnas tienen relación entre sí.
 
 3. Fase 3: Pruebas Estadísticas (evaluacion_final_mod3_fase3.ipynb)
-Aquí me puse un poco más serio para confirmar sospechas con números:
+confirmar sospechas con números:
 
 Hice un test de hipótesis para ver si el nivel educativo influye en el número de vuelos reservados.
 
@@ -35,7 +35,7 @@ Un pequeño documento donde anoté mis interpretaciones rápidas y lo que iba de
 Herramientas usadas
 Python (Pandas, Numpy)
 
-Seaborn y Matplotlib (para que los gráficos se vean bonitos con tonos azules y paletas tipo mako).
+Seaborn y Matplotlib.
 
 Scipy (para la parte de las pruebas estadísticas).
 
